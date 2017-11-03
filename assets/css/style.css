@@ -117,6 +117,7 @@ h4 {
 .portfolio {
   float: left;
   position:relative;
+  padding-left: 20px;
 }
 
 .image2 {
