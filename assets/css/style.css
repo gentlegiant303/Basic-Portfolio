@@ -2,7 +2,7 @@ body {
   color: #777777;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   margin-left:10px;
-  background-image: url("./stonehaven.png");
+  background-image: url("../images/stonehaven.png");
 }
 
 h1 {
